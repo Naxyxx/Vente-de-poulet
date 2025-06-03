@@ -1,0 +1,11 @@
+agripoultry/
+├── public/
+│   ├── index.html
+│   └── favicon.ico (facultatif)
+├── src/
+│   ├── App.jsx
+│   ├── index.js
+│   └── styles.css
+├── package.json
+├── .gitignore
+├── README.md
